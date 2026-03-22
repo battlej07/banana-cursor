@@ -26,5 +26,25 @@
       { "match": "#FCD900", "replace": "#E16C6C" },
       { "match": "#6D3C1B", "replace": "#1B0707" }
     ]
+  },
+  "Banana-Everforest-Dark-Hard": {
+    "dir": "svg",
+    "out": "bitmaps/Banana-Everforest-Dark-Hard",
+    "colors": [
+      { "match": "#FCD900", "replace": "#DBBC7F" },
+      { "match": "#6D3C1B", "replace": "#374145" },
+      { "match": "#FF9900", "replace": "#E69875" },
+      { "match": "#75ED77", "replace": "#A7C080" },
+      { "match": "#010100", "replace": "#010100" },
+      { "match": "#BD0606", "replace": "#E67E80" },
+      { "match": "#7CA3AC", "replace": "#83C092" },
+      { "match": "#4E0000", "replace": "#272E33" },
+      { "match": "#FF3BBB", "replace": "#D699B6" },
+      { "match": "#1D9DE1", "replace": "#7FBBB3" },
+      { "match": "#010138", "replace": "#384B55" },
+      { "match": "#FAEC8F", "replace": "#DBBC7F" },
+      { "match": "#FF4343", "replace": "#E67E80" },
+      { "match": "#8658F7", "replace": "#D699B6" }
+    ]
   }
 }
